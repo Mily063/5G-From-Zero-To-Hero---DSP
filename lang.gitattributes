@@ -1,8 +1,1 @@
-docs/** linguist-vendored
-presentation/** linguist-vendored
-test/** linguist-vendored
-
-*.md linguist-documentation
-*.txt linguist-documentation
-
-*.ipynb linguist-language=Python
+*.html linguist-detectable=false
